@@ -3,7 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>hlw world</h1>
+      <h1>Farmbees</h1>
+      <h3>The Marketplace for farmers</h3>
     </div>
   );
 }
